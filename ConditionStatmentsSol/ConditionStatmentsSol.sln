@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30907.101
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercise01_KPerry", "Exercise01_KPerry\Exercise01_KPerry.csproj", "{60F40598-2140-4637-BCCD-6C283D04115F}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConditionStatments", "ConditionStatments\ConditionStatments.csproj", "{7AB34E80-B125-48D5-B123-49ADC8FF1B29}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{60F40598-2140-4637-BCCD-6C283D04115F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{60F40598-2140-4637-BCCD-6C283D04115F}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{60F40598-2140-4637-BCCD-6C283D04115F}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{60F40598-2140-4637-BCCD-6C283D04115F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7AB34E80-B125-48D5-B123-49ADC8FF1B29}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7AB34E80-B125-48D5-B123-49ADC8FF1B29}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7AB34E80-B125-48D5-B123-49ADC8FF1B29}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7AB34E80-B125-48D5-B123-49ADC8FF1B29}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {0CB31AFA-3D39-4014-9032-16D94EF8A084}
+		SolutionGuid = {77220E29-4EA6-4087-96FD-57F894369C7F}
 	EndGlobalSection
 EndGlobal
